@@ -1,6 +1,6 @@
-# AI Recruiter Agency
+# AI Recruiter
 
-The AI Recruiter Agency is an advanced resume processing and data extraction system that leverages AI models, such as Ollama (Llama 3.2), to extract key information like name, skills, experience, and education from resumes. This repository is designed to streamline the recruitment process by automating the extraction of structured data from unstructured documents.
+The AI Recruiter is an advanced resume processing and data extraction system that leverages AI models, such as Ollama (Llama 3.2), to extract key information like name, skills, experience, and education from resumes. This repository is designed to streamline the recruitment process by automating the extraction of structured data from unstructured documents.
 
 
 ## Features
